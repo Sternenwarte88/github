@@ -1,0 +1,22 @@
+{
+  "name": "christmas-site",
+  "version": "0.0.1",
+  "description": "A little xmas site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sternenwarte88/github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sternenwarte88/github/issues"
+  },
+  "homepage": "https://github.com/Sternenwarte88/github#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
